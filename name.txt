@@ -1,9 +1,3 @@
-test
-:x
-<<<<<<< HEAD
-new edited....
-kkkk
-=======
-new edited...
+
 
 
